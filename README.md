@@ -5,8 +5,6 @@ Overview
 This repository contains Java solutions to the top 100 Data Structures and Algorithms (DSA) questions from LeetCode. Each solution is provided in Java and aims to provide an efficient and clear implementation of the problem.
 
 Contents
-
-
 1 Rotate Array in Java 7
 2 Evaluate Reverse Polish Notation 9
 3 Solution of Longest Palindromic Substring in Java 11
