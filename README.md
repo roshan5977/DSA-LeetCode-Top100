@@ -6,8 +6,11 @@ This repository contains Java solutions to the top 100 Data Structures and Algor
 
 Contents
 1 Rotate Array in Java 7
+
 2 Evaluate Reverse Polish Notation 9
+
 3 Solution of Longest Palindromic Substring in Java 11
+
 4 Solution Word Break 15
 5 Word Break II 18
 6 Word Ladder 20
