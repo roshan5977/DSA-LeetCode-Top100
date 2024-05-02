@@ -7,7 +7,7 @@ This repository contains Java solutions to the top 100 Data Structures and Algor
 Contents
 1 Rotate Array in Java 7.
 
-2 Evaluate Reverse Polish Notation 9
+2 Evaluate Reverse Polish Notation 9.
 
 3 Solution of Longest Palindromic Substring in Java 11
 
