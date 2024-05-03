@@ -9,7 +9,7 @@ Contents
 
 2 Evaluate Reverse Polish Notation 9.
 
-3 Solution of Longest Palindromic Substring in Java 11
+3 Solution of Longest Palindromic Substring in Java 11.
 
 4 Solution Word Break 15
 5 Word Break II 18
