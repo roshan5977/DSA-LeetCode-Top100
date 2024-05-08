@@ -16,12 +16,12 @@ Example 2:
 
 Input: haystack = "leetcode", needle = "leeto"
 Output: -1
-Explanation: "leeto" did not occur in "leetcode", so we return -1.
+Explanation: "leeto" did not occur in "leetcode", so we return -1...
 */
 
 public class indexOfFirstOccurrence {
     public static void main(String[] args) {
-        String haystack="bussawdtsasd";
+        String haystack="sadbutsad";
         String needle="sad";
         System.out.println(strStr(haystack, needle));
     }
