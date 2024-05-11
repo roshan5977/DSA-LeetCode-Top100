@@ -1,7 +1,8 @@
 public class ReverseString {
     public static void main(String[] args) {
         char[] s = {'h', 'e', 'l', 'l', 'o'};
-
+String r="DDd";
+// r.startsWith(r)
 
         System.out.println(reverseString(s));
     }
@@ -9,6 +10,7 @@ public class ReverseString {
         char[] r=new char[s.length];
         for(int i=0;i<s.length;i++){
             r[i]=s[s.length-i-1];
+            
         }
         return r;
     }
