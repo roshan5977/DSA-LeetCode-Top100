@@ -47,21 +47,21 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 public class RemoveDuplicatesSortedArray {
     public static void main(String[] args) {
       int[]  nums = {0,0,1,1,1,2,2,3,3,4};
-      System.out.println(removeDuplicates(nums));
+    //   System.out.println(removeDuplicates(nums));
     }
 
-    static int[] removeDuplicates(int[] nums) {
-        for(int i=0;i<nums.length-1;i++){
-            if(nums[i]==nums[i+1]){
-               i++;
-               int temp=nums[i+1];
-                nums[i]=nums[i+1];
+    // static int[] removeDuplicates(int[] nums) {
+    //     for(int i=0;i<nums.length-1;i++){
+    //         if(nums[i]==nums[i+1]){
+    //            i++;
+    //            int temp=nums[i+1];
+    //             nums[i]=nums[i+1];
 
-            }
+    //         }
 
-        }
+    //     }
        
-    }
+    // }
 
 
 }
