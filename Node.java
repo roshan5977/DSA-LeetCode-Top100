@@ -9,7 +9,7 @@ public class Node<T> {
         this.next = null;
     }
 
-    // Getter for data
+    // Getter for data.
     public T getData() {
         return data;
     }
